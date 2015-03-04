@@ -1,0 +1,3 @@
+id,"name",count,has_defined_answer,"created_at","updated_at"
+1,"Match",NULL,NULL,"2011-10-25 21:19:10","2011-10-25 21:19:10"
+2,"Antimatch",NULL,NULL,"2011-10-25 21:19:10","2011-10-25 21:19:10"
